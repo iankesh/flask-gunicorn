@@ -2,9 +2,13 @@
 
 ### Pre-Requisites
 sudo apt update
+
 sudo apt install software-properties-common
+
 sudo apt install python3-pip
+
 sudo pip3 install flask
+
 sudo pip3 install gunicorn
 
 ### Flask:
