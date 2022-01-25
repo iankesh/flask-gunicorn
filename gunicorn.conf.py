@@ -52,9 +52,11 @@ loglevel = "info"
 #--capture-output
 # capture_output = False
 
+#----------------------------------------------------------------------------------------
 ##PROCESS NAMING
 #If you’re going to be running more than one instance of Gunicorn you’ll probably want to set a name to tell them apart.
 #--name STRING
 # proc_name = "ankesh"
 
+#----------------------------------------------------------------------------------------
 ##SSL
